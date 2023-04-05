@@ -1,0 +1,19 @@
+Collecting nbformat
+  Downloading nbformat-5.8.0-py3-none-any.whl (77 kB)
+     ---------------------------------------- 77.4/77.4 kB 1.4 MB/s eta 0:00:00
+Collecting jsonschema>=2.6
+  Downloading jsonschema-4.17.3-py3-none-any.whl (90 kB)
+     ---------------------------------------- 90.4/90.4 kB 2.6 MB/s eta 0:00:00
+Collecting fastjsonschema
+  Downloading fastjsonschema-2.16.3-py3-none-any.whl (23 kB)
+Requirement already satisfied: jupyter-core in c:\users\sales\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (from nbformat) (5.3.0)
+Requirement already satisfied: traitlets>=5.1 in c:\users\sales\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (from nbformat) (5.9.0)
+Collecting attrs>=17.4.0
+  Using cached attrs-22.2.0-py3-none-any.whl (60 kB)
+Collecting pyrsistent!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0
+  Downloading pyrsistent-0.19.3-cp310-cp310-win_amd64.whl (62 kB)
+     ---------------------------------------- 62.7/62.7 kB 1.7 MB/s eta 0:00:00
+Requirement already satisfied: pywin32>=300 in c:\users\sales\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (from jupyter-core->nbformat) (305)
+Requirement already satisfied: platformdirs>=2.5 in c:\users\sales\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages (from jupyter-core->nbformat) (3.1.1)
+Installing collected packages: fastjsonschema, pyrsistent, attrs, jsonschema, nbformat
+Successfully installed attrs-22.2.0 fastjsonschema-2.16.3 jsonschema-4.17.3 nbformat-5.8.0 pyrsistent-0.19.3
